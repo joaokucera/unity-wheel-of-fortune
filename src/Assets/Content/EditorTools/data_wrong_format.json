@@ -1,0 +1,24 @@
+[
+	{
+		"a" : "Ace",
+		"b" : "#000000",
+		"c" : "images/ace.png"
+	},
+	{
+		"text" : "King",
+		"color" : "#ff0000",
+		"image" : "images/king.png"
+	},
+	{
+		"text" : "Queen",
+		"image" : "images/queen.png"
+	},
+	{
+		"color" : "#2200ff",
+		"image" : "images/jack.png"
+	},
+	{
+		"text" : "Ten",
+		"color" : "#f0ff00"
+	}
+]
